@@ -1744,5 +1744,92 @@
     "status": "published",
     "verificationStatus": "multi-source",
     "contentType": "news"
+  },
+  {
+    "additionalSources": [
+      {
+        "name": "Primary Ignition",
+        "url": "https://primaryignition.com/2026/10/15/pentagon-drone-production-funding-push-reaches-50b-in-new-reconciliation/"
+      },
+      {
+        "name": "New Kerala",
+        "url": "https://www.newkerala.com/news/a/us-plans-millions-drones-future-wars-806.htm"
+      }
+    ],
+    "author": "Robert Hayes",
+    "breaking": false,
+    "category": "Military Drones and Robotics",
+    "content": "WASHINGTON — Defense Secretary Pete Hegseth said Wednesday the Pentagon will seek roughly $50 billion in one-time funding to take the U.S. military's stockpile of autonomous weapons from the thousands into the millions, describing it as the largest push to industrialize unmanned warfare the department has ever attempted.\n\nSpeaking on the Project Agincourt panel at the Association of the U.S. Army's annual meeting in Washington, Hegseth said the money would arrive through a budget reconciliation package rather than the Pentagon's regular annual request, framing it as a single investment in production capacity rather than a recurring expense.\n\n\"Ultimately we will be dealing with hundreds of thousands of one-way attack systems this year and into the millions in years to come at a pace that this department's never ever seen before,\" Hegseth said.\n\n## A second, separate budget track\n\nThe $50 billion request sits apart from the $53.6 billion the department already included for its Drone Dominance initiative in the fiscal 2027 budget request. That initiative divides its spending across five areas: $16.9 billion for unmanned system procurement, $14.4 billion for counter-drone defenses, $13.5 billion for contested logistics, $4.5 billion for collaborative autonomy and $4.3 billion for institutional systems and personnel.\n\nCombined with money lawmakers already approved through an earlier reconciliation bill, total planned autonomy and robotics spending could exceed $55 billion, according to figures from the Federal News Network — though the new $50 billion tranche has not been approved and remains subject to congressional action.\n\n## Project Agincourt and the new command\n\nThe money is meant to feed two structures Hegseth unveiled in September: Project Agincourt, a year-long effort to test a faster way of buying autonomous systems that puts operators, engineers and start-ups in the same room, and its planned successor, the Autonomous Warfare Command, or AUTOWARCOM.\n\nHegseth announced the command at Marine Corps Base Quantico on September 30, saying it would hold \"service-like authorities\" under a four-star commander, with a target stand-up date of October 1, 2027, pending legislation from Congress. The Pentagon has already moved its Direct Reporting Portfolio Manager for autonomy into Project Agincourt, according to Breaking Defense, signaling the department is building the organization before the money is secured.\n\nOn the AUSA stage, Hegseth leaned on his own officials to strip away acquisition rules. \"I want you to tell me which rules can be signed away,\" he said, pushing the department to open competition to newer firms and buy cheaper systems in volume rather than exquisite ones in small batches.\n\nActing Army Secretary Adam Telle said the Army is opening programs to non-traditional companies, widening access to test ranges and writing drones, autonomous ground vehicles, autonomous fires and autonomous lift into the way it plans to fight. The service has also created a robotics warrant officer track so skilled operators can stay in uniform for a full career, and separately outlined a plan to field roughly 340,000 small unmanned aircraft systems to combat units over two years.\n\n## Why it matters\n\nThe numbers here are the message. For three decades the Pentagon has treated drones as high-end assets built in small numbers by big primes; Hegseth's pitch inverts that, treating them as munitions — things to be made by the hundreds of thousands and consumed. That is the lesson of Ukraine, where cheap first-person-view drones have become the deadliest weapon on the battlefield.\n\nThe reconciliation route matters as much as the dollar figure. By placing the money outside the regular appropriations process, the department is betting it can stand up factories and supply chains in months rather than years. But reconciliation bills are political vehicles with uncertain futures, and Congress still has to pass this one. The budget language so far also blurs how much would buy drones outright versus funding factories, autonomy software and logistics.\n\nWhat to watch next is execution: whether the reconciliation money materializes, whether AUTOWARCOM gets its legislation, and which companies actually get the orders. Hegseth's promise to let small firms compete with the primes will be measured in contracts, not panels.",
+    "contentType": "news",
+    "featured": false,
+    "id": "n0053",
+    "image": "assets/img/articles/hegseth-pentagon-50-billion-drone-arsenal-millions.jpg",
+    "imageAlt": "Hegseth Says Pentagon Needs $50 Billion to Build Drone Arsenal by the Millions",
+    "imageCredit": "U.S. Army photo by Capt. Thomas McCarty, via Wikimedia Commons",
+    "imageCreditUrl": "https://defenseandtech.com/pentagon-50-billion-drones-autonomous-warfare/",
+    "region": "North America",
+    "slug": "hegseth-pentagon-50-billion-drone-arsenal-millions",
+    "sourceName": "Defense and Tech",
+    "sourceUrl": "https://defenseandtech.com/pentagon-50-billion-drones-autonomous-warfare/",
+    "status": "published",
+    "summary": "Speaking at the AUSA annual meeting, Defense Secretary Pete Hegseth said the Pentagon will seek about $50 billion in one-time reconciliation funding to scale its autonomous weapons stockpile from thousands into the millions.",
+    "tags": [
+      "Pete Hegseth",
+      "autonomous weapons",
+      "drone production",
+      "Project Agincourt",
+      "Autonomous Warfare Command",
+      "AUSA 2026"
+    ],
+    "title": "Hegseth Says Pentagon Needs $50 Billion to Build Drone Arsenal by the Millions",
+    "verificationStatus": "multi-source",
+    "publishedAt": "2026-10-18T12:40:15+00:00",
+    "updatedAt": "2026-10-18T12:40:15+00:00",
+    "collectedAt": "2026-10-18T12:40:15+00:00"
+  },
+  {
+    "additionalSources": [
+      {
+        "name": "Defence-Blog",
+        "url": "https://defence-blog.com/israel-orders-12-ah-64e-apaches-from-boeing-for-2030s/"
+      },
+      {
+        "name": "Calcalistech",
+        "url": "https://www.calcalistech.com/ctechnews/article/ben17alps"
+      },
+      {
+        "name": "MiGFlug",
+        "url": "https://migflug.com/afterburner/israel-12-ah-64e-apache-helicopters-agreement-2026/"
+      }
+    ],
+    "author": "James Carter",
+    "breaking": false,
+    "category": "Military Aviation",
+    "content": "JERUSALEM — Israel signed an agreement with the United States on October 14 to buy 12 Boeing AH-64E Apache Guardian attack helicopters, closing a deal worth an estimated $1 billion that nearly collapsed over a domestic budget fight.\n\nThe Defense Ministry said Director General Maj. Gen. (res.) Amir Baram instructed Israel's defense mission in Washington to sign the agreement after the cabinet approved it on Wednesday. Deliveries are expected in the early 2030s. The ministry did not disclose the contract's value; Israeli business daily Calcalist estimated it at about $1 billion.\n\n\"The execution of the Apache agreement was made possible thanks to creative solutions we developed together with our American partners, without compromising operational needs,\" Baram said in the ministry's statement. Defense Minister Israel Katz called the purchase \"a critical step in the IDF's force buildup, one that will strengthen its operational capabilities.\"\n\n## A deal that nearly slipped away\n\nThe purchase stalled for months over a $288 million financing dispute between the Defense and Finance ministries. Washington granted Israel three deadline extensions, and Israel still missed the final ordering deadline the week before the signing. The cabinet then approved shifting about NIS 1 billion into defense procurement — reportedly drawn largely from a 2027-2029 development program for Arab communities, with another NIS 68 million from the 2026 state budget — allowing the original 12-aircraft quantity to survive.\n\nThe 12 helicopters represent 40 percent of the package Washington cleared earlier this year. In January, the U.S. State Department approved a possible foreign military sale of up to 30 AH-64Es and related equipment at an estimated ceiling of $3.8 billion. A foreign military sales approval sets a ceiling rather than a contract, and Israel has now signed for the first batch, leaving 18 aircraft outside the agreement.\n\n## What the AH-64E brings\n\nThe aircraft will be the Version 6 configuration of the Apache, the newest in service. Its mast-mounted AN/APG-78 Longbow fire control radar can detect targets out to 16 kilometers, double the reach of earlier configurations, and track up to 128 targets while prioritizing 16 for engagement.\n\nVersion 6 adds maritime targeting functions for detecting and engaging surface vessels, including small craft in coastal waters — capabilities relevant to operations along the Mediterranean coast and near Gaza. The helicopter also fields manned-unmanned teaming, allowing crews to receive data from compatible drones and, depending on the setup, control their sensors or flight functions.\n\nThe 12 new aircraft will join an aging fleet: 23 AH-64A Petens acquired starting in 1990 and 20 AH-64D Sarafs delivered from 2005. By 2032, the earliest AH-64As will have served 42 years, sharpening the case for replacements even as Israel debates whether the new aircraft replace or supplement the old.\n\nThe Apache order is the latest in a string of major Israeli purchases of American aircraft. In November 2024, Israel signed a $5.2 billion deal for 25 Boeing F-15IA fighters, and in May it approved a plan for a fourth F-35 squadron and a second F-15IA squadron, with those agreements still being finalized.\n\n## Why it matters\n\nThe drama of this purchase was never really about helicopters — it was about money. Israel is simultaneously financing a multi-year force buildup across fighters, air defenses and munitions, and the $288 million gap that nearly killed the Apache deal is a window into the strain. That the cabinet ultimately redirected a domestic development program's funds to keep the order alive shows how firmly attack aviation ranks in the IDF's priorities — and how thin the fiscal cushion has become.\n\nThe capabilities tell their own story. The maritime targeting package and the manned-unmanned teaming suite are not Cold War tank-killing requirements; they are built for the wars Israel is actually fighting — spotting small boats off the coast, pairing gunships with drones to hunt dispersed targets, and coordinating fires with ground troops in dense urban terrain. Israel's Apaches have been flying exactly those missions since October 2023.\n\nWhat to watch: whether Jerusalem funds the remaining 18 authorized Apaches, and the follow-on agreements Baram flagged for platforms, munitions and interceptors — the weapons that will decide what these helicopters can actually do when they arrive in the 2030s.",
+    "contentType": "news",
+    "featured": false,
+    "id": "n0054",
+    "image": "assets/img/articles/israel-signs-12-ah-64e-apache-attack-helicopters-deal.jpg",
+    "imageAlt": "Israel Signs $1 Billion Deal for 12 New AH-64E Apache Attack Helicopters",
+    "imageCredit": "Defence-Blog",
+    "imageCreditUrl": "https://defence-blog.com/israel-orders-12-ah-64e-apaches-from-boeing-for-2030s/",
+    "region": "Middle East",
+    "slug": "israel-signs-12-ah-64e-apache-attack-helicopters-deal",
+    "sourceName": "Army Recognition",
+    "sourceUrl": "https://www.armyrecognition.com/news/aerospace-news/2026/israel-signs-1-billion-deal-for-12-new-us-ah-64e-apache-attack-helicopters-with-maritime-strike-capabilities",
+    "status": "published",
+    "summary": "Israel's Defense Ministry signed an agreement with the United States on October 14 to acquire 12 Boeing AH-64E Apache Guardian helicopters, a deal worth an estimated $1 billion that nearly collapsed over a $288 million domestic budget dispute.",
+    "tags": [
+      "AH-64E Apache",
+      "Israel",
+      "Boeing",
+      "Foreign Military Sales",
+      "Israeli Air Force"
+    ],
+    "title": "Israel Signs $1 Billion Deal for 12 New AH-64E Apache Attack Helicopters",
+    "verificationStatus": "multi-source",
+    "publishedAt": "2026-10-18T12:40:15+00:00",
+    "updatedAt": "2026-10-18T12:40:15+00:00",
+    "collectedAt": "2026-10-18T12:40:15+00:00"
   }
 ]
