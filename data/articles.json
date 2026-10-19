@@ -1831,5 +1831,88 @@
     "publishedAt": "2026-10-18T12:40:15+00:00",
     "updatedAt": "2026-10-18T12:40:15+00:00",
     "collectedAt": "2026-10-18T12:40:15+00:00"
+  },
+  {
+    "id": "n0055",
+    "title": "Ukraine Launches More Than 1,000 Drones at Russia, Setting St. Petersburg Oil Terminal Ablaze",
+    "slug": "ukraine-1000-drones-st-petersburg-oil-terminal-strike",
+    "category": "Military Drones and Robotics",
+    "region": "Europe",
+    "summary": "Kyiv launched one of the largest drone attacks of the war on Oct. 18, setting the Petersburg Oil Terminal and the Ruchi depot ablaze as tensions with Washington deepened over Trump's energy ceasefire push.",
+    "content": "Ukrainian drones set an oil export terminal and a depot ablaze in St. Petersburg on Sunday as Kyiv launched more than 1,000 drones at Russia in one of the largest aerial attacks of the war, Russian authorities and company officials said.\n\nThe fires at the Petersburg Oil Terminal and the city's Ruchi oil depot marked a striking blow against Russian energy infrastructure in Vladimir Putin's home city, hundreds of kilometers from the front lines. Regional Governor Alexander Beglov said one person was killed and five others were wounded in the attack. A logistics center belonging to Russian online retailer Ozon and a data center operated by Russian tech giant VK were also hit, both companies confirmed.\n\nRussia's Defense Ministry said its air defenses had destroyed 1,015 Ukrainian drones over 15 Russian regions, the annexed Ukrainian peninsula of Crimea and the Black Sea. Moscow's mayor reported intercepting dozens of drones around the capital, and aviation authorities temporarily restricted operations at two Moscow airports and St. Petersburg's Pulkovo airport. Kremlin spokesman Dmitry Peskov told the Tass news agency that Kyiv was \"resisting\" Moscow's invasion but could not \"change the current course of events.\"\n\nThe attack came as tensions between Ukraine and Washington deepened. President Donald Trump announced Oct. 11 that Russia and Ukraine had agreed to an \"energy ceasefire,\" but offered no details. Kyiv initially said it was observing the pause, then said Thursday it had resumed strikes on Russian oil facilities after a three-day halt. Trump last week called Ukraine's strikes on Russian oil refineries a \"disgrace,\" and on Friday night signed an executive order waiving planned restrictions, citing U.S. national interests — a move that put further U.S. sanctions against Moscow in doubt.\n\n## A ceasefire that never held\n\nPresident Volodymyr Zelenskyy wrote on X Sunday that Russia had attacked Ukraine's energy, oil and gas sectors 76 times in the week since Trump's announcement. Energy facilities in four Ukrainian regions — Vinnytsia, Zhytomyr, Khmelnytskyi and Odesa — were struck overnight, leaving tens of thousands of families without power, he said, accusing Moscow of trying to cause a blackout ahead of winter.\n\n\"America should see that Russia is not taking any reciprocal steps in response to sanctions relief or agreements,\" Zelenskyy wrote. \"On the contrary, they take every signal of an opportunity to make money as proof that their bet on war is paying off and they can keep fighting.\"\n\nRussia continued its own strikes on Ukraine. In Zaporizhzhia, a woman was killed and a 6-year-old girl was among at least two others wounded in two Russian attacks Sunday, local officials said. Overnight on Oct. 18–19, Kyiv was hit by multiple waves of ballistic missiles that damaged a medical center, a 25-story residential building and the Chernihivska metro station, killing at least one person, Ukrainian officials said.\n\nSpeaking on NBC's \"Meet the Press\" on Sunday, Zelenskyy said waiving sanctions would strengthen Putin's war effort. He also said U.S.-Ukraine intelligence sharing had resumed after being \"blocked for some period of time,\" and added that while he trusted Trump, siding with Moscow would be a tragedy and a \"historic mistake\" for Washington.\n\n## Why it matters\n\nThe St. Petersburg raid is a measure of how completely long-range drones have rewritten the geography of the war. An attack of this scale — against petroleum terminals, a retail logistics hub and a tech company's data center in Russia's second city — shows Ukraine can now impose visible, economically meaningful costs far inside Russia with unmanned systems built domestically at a fraction of the cost of traditional airpower.\n\nIt also sharpens the contradiction at the heart of Trump's diplomacy. The administration wants lower oil prices ahead of the midterms and is pressing Kyiv to stop hitting Russian refineries, while exempting Russian diesel imports from sanctions. Zelenskyy's answer — that he has spoken with U.S. envoys Steve Witkoff and Jared Kushner about next steps and will keep striking — is that a one-sided ceasefire is no ceasefire at all. Watch whether the St. Petersburg fires push Washington to settle its sanctions decision, and whether Moscow retaliates against Ukrainian energy as winter sets in. The winter blackout contest is now the center of gravity for both sides.\n",
+    "image": "assets/img/articles/ukraine-1000-drones-st-petersburg-oil-terminal-strike.jpg",
+    "imageAlt": "Fire and smoke rising from oil facilities in St. Petersburg after a Ukrainian drone attack, Oct. 18, 2026",
+    "imageCredit": "New York Post",
+    "sourceName": "Associated Press",
+    "sourceUrl": "https://www.military.com/st-petersburg-oil-facilities-ablaze-as-ukraine-launches-more-than-1000-drones-at-russia",
+    "additionalSources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl"
+      },
+      {
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/10/18/world-news/blaze-at-st-petersburg-oil-sites-as-ukraine-launches-more-than-1000-drones-at-russia/"
+      }
+    ],
+    "author": "Michael Reynolds",
+    "publishedAt": "2026-10-19T12:39:31+00:00",
+    "updatedAt": "2026-10-19T12:39:31+00:00",
+    "collectedAt": "2026-10-19T12:39:31+00:00",
+    "tags": [
+      "Ukraine",
+      "Russia",
+      "drones",
+      "St. Petersburg",
+      "oil",
+      "energy war"
+    ],
+    "featured": true,
+    "breaking": false,
+    "status": "published",
+    "verificationStatus": "multi-source",
+    "contentType": "news",
+    "imageCreditUrl": "https://nypost.com/2026/10/18/world-news/blaze-at-st-petersburg-oil-sites-as-ukraine-launches-more-than-1000-drones-at-russia/"
+  },
+  {
+    "id": "n0056",
+    "title": "Senate Democrats Demand Pentagon Disclose the 'True Cost' of the Iran War",
+    "slug": "senators-demand-true-cost-iran-war-pentagon",
+    "category": "Defense Industry and Procurement",
+    "region": "United States",
+    "summary": "Five Senate Democrats, led by Elizabeth Warren, want Adm. Brad Cooper to publicly reveal the cost of damage to U.S. bases in the Middle East, which CENTCOM's $43.6 billion war estimate leaves out.",
+    "content": "Five Democratic senators are demanding the Pentagon publicly reveal the full cost of the war in Iran, accusing the Trump administration of hiding how much damage Iranian strikes have done to American bases across the Middle East.\n\nThe senators wrote to Adm. Brad Cooper, the head of U.S. Central Command, that the administration's \"ongoing efforts to hide the true cost of this war are outrageous and unacceptable.\" The letter, first reported by USA Today on Monday, asks for the estimated cost of the damage, a timeline for beginning repairs, and how much has been spent adapting new facilities to account for the destroyed ones.\n\nAccording to an update CENTCOM provided to congressional national security committees, the military estimates the war has cost $43.6 billion as of Sept. 3. But that figure does not account for damage to U.S. bases and other military facilities in the region that were damaged or destroyed by Iranian strikes. The senators note that Cooper shared the damage estimate with the Senate Armed Services Committee in a recent classified briefing — and argue there is no reason to keep it secret.\n\n\"During a recent classified briefing, you provided information to the Senate Armed Services Committee on the estimated cost of the damage to U.S. bases and facilities,\" the senators wrote. \"However, that figure should not be available only to lawmakers — the American people deserve to know the full cost of the Trump administration's unauthorized war against Iran.\"\n\n## The wreckage the estimate leaves out\n\nThe letter was led by Sen. Elizabeth Warren of Massachusetts and signed by Sens. Mazie Hirono of Hawaii, Richard Blumenthal of Connecticut, Tammy Duckworth of Illinois and Gary Peters of Michigan.\n\nA report from the Pentagon's own inspector general found that buildings and facilities at U.S. bases in Kuwait, Bahrain, Qatar, the UAE, Saudi Arabia, Iraq, Oman and Jordan were damaged or destroyed by Iranian strikes during the war. The most striking case cited is Naval Support Activity Bahrain, the Navy's main logistics hub in the Middle East, which was severely damaged by an Iranian missile and drone attack at the start of the war. Acting Navy Secretary Hung Cao confirmed the extensive damage, saying in an interview that Iran \"blew the hell out of Bahrain.\" The senators say the damage complicated the Navy's efforts to resupply the USS Abraham Lincoln, contributing to deteriorating conditions for sailors aboard the carrier, which was at sea for a record 286 days.\n\nMore than 50,000 U.S. service members are deployed in Central Command's area of responsibility. At least 21 have been killed and another 865 injured since the conflict began.\n\nThe military has justified not disclosing the damage estimate by saying it has not decided which bases and facilities it will rebuild. The senators rejected that logic outright: \"There is no rationale for classifying that cost estimate. Our allies and our adversaries are, unfortunately, keenly aware of the extraordinary toll that this reckless war has taken on military readiness, and Congress and the public need this information to determine the steps necessary to recover from this debacle.\"\n\n## Why it matters\n\nThis is now the third front in the Iran war's cost fight. In September, a letter led by Sen. Elissa Slotkin and signed by 46 Democratic caucus members demanded a full breakdown of the $67 billion supplemental request the Pentagon says it needs. The Congressional Budget Office has put combat costs at $38 billion as of Aug. 1, with the future bill running $2 billion to $3 billion a month. Outside estimates run higher still.\n\nThe new angle — destroyed base infrastructure — is politically potent because it is about readiness, not just money. A wrecked logistics hub in Bahrain is a hole in the Navy's ability to fight the next war, and rebuilding it will compete with munitions replenishment, shipbuilding and everything else in an already-stretched budget. The Pentagon's excuse that it hasn't decided what to rebuild concedes the point: the bill is large enough that choices are being deferred. Watch for whether Cooper declassifies the number — and whether the Abraham Lincoln's record deployment becomes the emblem of a readiness debate that outlasts the war itself.\n",
+    "image": "assets/img/articles/senators-demand-true-cost-iran-war-pentagon.jpg",
+    "imageAlt": "USS Abraham Lincoln aircraft carrier operating in support of U.S. Central Command operations",
+    "imageCredit": "Army Recognition",
+    "sourceName": "USA Today",
+    "sourceUrl": "https://www.usatoday.com/story/news/politics/2026/10/19/iran-war-cost-pentagon-senators/92324117007/",
+    "additionalSources": [
+      {
+        "name": "The Fiscal Times",
+        "url": "https://www.thefiscaltimes.com/newsletter/20260917-Senate-Dems-Demand-Hegseth-Detail-Iran-War-Cost"
+      },
+      {
+        "name": "U.S. Senate",
+        "url": "https://www.bennet.senate.gov/2026/09/25/bennet-slotkin-colleagues-demand-answers-from-hegseth-on-cost-of-iran-war/"
+      }
+    ],
+    "author": "David Sullivan",
+    "publishedAt": "2026-10-19T12:39:31+00:00",
+    "updatedAt": "2026-10-19T12:39:31+00:00",
+    "collectedAt": "2026-10-19T12:39:31+00:00",
+    "tags": [
+      "Iran war",
+      "Pentagon",
+      "CENTCOM",
+      "Senate",
+      "war cost"
+    ],
+    "featured": false,
+    "breaking": false,
+    "status": "published",
+    "verificationStatus": "multi-source",
+    "contentType": "news",
+    "imageCreditUrl": "https://www.armyrecognition.com/news/navy-news/2026/u-s-deploys-aircraft-carrier-uss-abraham-lincoln-to-enforce-iran-blockade-in-major-naval-operation"
   }
 ]
